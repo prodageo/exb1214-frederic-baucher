@@ -18,7 +18,6 @@ public class Principal
 			boolean isPalindrome = Palindrome.is_palindrome(motAverifier) ;
 		
 			System.out.println("----------------------------------------------------");
-			// System.out.println("Input : ", " - Output : " );
 			System.out.println("Input : " + motAverifier + " >>> Output : " + isPalindrome );		
 			System.out.println("----------------------------------------------------");		
 		}
