@@ -3,11 +3,11 @@ public class Principal
 	public static void main(String[]args)
     {
 		// commande > java Principal mot
-		// décomposition de la commande :
+		// decomposition de la commande :
 		// - nom de la commande : java
-		// - argument 1 : fichier "compilé" de bytecode chargée : Main.class
-		// - argument 2 : paramètre 1 du programme Main.class
-		// rappel : la commande java chargé en RAM le bytecode de la classe qui va utilisé la CPU pour s'éxécuter.
+		// - argument 1 : fichier "compiled" de bytecode chargee : Main.class
+		// - argument 2 : parametre 1 du programme Main.class
+		// rappel : la commande java charge en RAM le bytecode de la classe qui va utilise la CPU pour s'executer.
 		
 		// exemple de palindrome en Marocain : TAKHKAT , tarhrat, ...
 		
@@ -18,7 +18,7 @@ public class Principal
 			boolean isPalindrome = Palindrome.is_palindrome(motAverifier) ;
 		
 			System.out.println("----------------------------------------------------");
-			// System.out.println("Input : ", "- Output : " );
+			// System.out.println("Input : ", " - Output : " );
 			System.out.println("Input : " + motAverifier + " >>> Output : " + isPalindrome );		
 			System.out.println("----------------------------------------------------");		
 		}
