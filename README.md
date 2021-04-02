@@ -21,5 +21,5 @@ Please edit the Palindrome.java file.
 * [Javadoc of String class](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html) : all operations available.
 * A selected set of operations available on String class
 
-https://i.imgur.com/NWjNad4.png
+![](https://i.imgur.com/NWjNad4.png)
 
