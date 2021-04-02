@@ -1,10 +1,21 @@
-https://classroom.github.com/a/98WKLxDC
-
 # exg1214
 
-# Compilation
+# Specification by test
+Your program should return test if a given word is a palindrome (a palindrome is a word which reads the same backward as forward).
+* input : this_is_not_a_palindrome
+** expected output : false
+* input : kelek
+** expected output : true
+
+# Coding
+Please edit the Palindrome.java file.
+
+# Build (Compilation)
  - javac Palindrome.java
  - javac Principal.java
 
-# Exécution
+# Run
  - java Principal argument
+
+# Hints
+
