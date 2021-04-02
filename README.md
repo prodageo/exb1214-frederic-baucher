@@ -3,9 +3,9 @@
 # Specification by test
 Your program should return test if a given word is a palindrome (a palindrome is a word which reads the same backward as forward).
 * input : this_is_not_a_palindrome
-** expected output : false
+  * expected output : false
 * input : kelek
-** expected output : true
+  * expected output : true
 
 # Coding
 Please edit the Palindrome.java file.
