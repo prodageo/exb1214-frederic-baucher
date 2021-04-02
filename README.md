@@ -18,4 +18,6 @@ Please edit the Palindrome.java file.
  - java Principal argument
 
 # Hints
+* https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html : all operations available on String class.
+* A selected set of operations available on String class
 
