@@ -1,7 +1,7 @@
 public class Principal
 {
 	public static void main(String[]args)
-    {
+  {
 	
 		if ( args.length == 1 )
 		{
@@ -13,5 +13,5 @@ public class Principal
 			System.out.println("Input : " + motAverifier + " >>> Output : " + isPalindrome );		
 			System.out.println("----------------------------------------------------");		
 		}
-
+  }
 }
