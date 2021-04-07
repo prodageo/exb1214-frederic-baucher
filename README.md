@@ -27,3 +27,17 @@ Please edit the Palindrome.java file.
 * [Javadoc of String class](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html) : all operations available.
 
 
+## Troubleshooting
+If somethins get wrong, please contact the teacher by given information about the problem that you are facing.
+
+- Dans quel outil tu constates que ça ne marche pas ?
+- Est-ce dans Repl.it ?
+ - tu n'arrives pas à copier-coller dans l'éditeurle nouveau code de Palindrome.java
+ - tu n'arrives pas à modifier dans l'éditeurle code existant de Palindrome.java  
+ - la compilation (javac Palindrome.java) échoue (=> merci de m'envoyer la commande tapée et le message d'erreur)
+ - l'exécution (java Palindrome kelek) échoue (=> merci de m'envoyer la commande tapée et le message d'erreur)  
+ - tu n'arrives pas à faire un "commit & push" du code Palindrome.java pour le reporter dans Github => mercie de m'envoyer une copie d'écran
+-  Repl.it dans Github ?
+-   Envoyer une copie de l'écran qui te fait dire que ça ne marche pas.
+Merci de choisir le problème qui correspond le mieux à ce qui bloque ta progression et de me l'envoyer (avec les éventuelles informations complémentaires demandées).
+
